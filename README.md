@@ -26,13 +26,13 @@ Follow these steps to set up and run the project:
 
 
 ## Project structure
-**AnalyticsReport** - This has all images regarding the visualizations<br>
-**Cleaned Data** - Data after the preprocessing<br>
-**Data** - Raw data before preprocessing<br>
-**Extract Data** - This has the files to extract the fipscode of the counties from geocoders api.<br>
-**Machine Learning** - This contains the machine learning models.<br>
-**Queries** - This has connection.py file which is used to establish the connection with DB. insert_data to insert the data from excel files (used in case the data in DB is deleted or changed).<br> query.py has all query functions which are used creating the visualizations.<br>
-**UI**- Has the UI files (developed using strealit).<br>
+1. **AnalyticsReport** - This has all images regarding the visualizations<br>
+2. **Cleaned Data** - Data after the preprocessing<br>
+3. **Data** - Raw data before preprocessing<br>
+4. **Extract Data** - This has the files to extract the fipscode of the counties from geocoders api.<br>
+5. **Machine Learning** - This contains the machine learning models.<br>
+6. **Queries** - This has connection.py file which is used to establish the connection with DB. insert_data to insert the data from excel files (used in case the data in DB is deleted or changed).<br> query.py has all query functions which are used creating the visualizations.<br>
+7. **UI**- Has the UI files (developed using strealit).<br>
 
 
 
