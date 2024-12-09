@@ -1,0 +1,183 @@
+city_id,food_banks_id,food_bank_name,address,status
+1840000455,4,The Greater Boston Food Bank,70 South Bay Ave,Stabilizing
+1840000319,6,Good Shepherd Food Bank,3121 Hotel Road,Stable
+1840002983,7,New Hampshire Food Bank,700 East Industrial Park Drive,Stable
+1840003289,8,Rhode Island Community Food Bank,200 Niantic Ave.,Stable
+1840002186,9,Vermont Foodbank,33 Parker Road,Stable
+1840004953,15,Feeding Westchester,200 Clearbrook Road,Stabilizing
+1840000378,16,Food Bank of Central New York,7066 Interstate Island Road,Stable
+1840000472,17,Food Bank of the Southern Tier,388 Upper Oakwood Avenue,Stabilizing
+1840000386,18,FeedMore WNY,91 Holt Street,Unstable
+1840000373,19,"Foodlink, Inc.",1999 Mt. Read Boulevard,Stable
+1840005233,20,Island Harvest,15 Grumman Road West Suite 1450,Stabilizing
+1840005077,21,"Long Island Cares, Inc.",10 Davids Drive,Stabilizing
+1840033905,22,Regional Food Bank of Northeastern New York,965 Albany Shaker Rd.,Stable
+1630035637,23,Banco de Alimentos de Puerto Rico,Urbanization Country Club Park C / 272 IC4,Stabilizing
+1840006060,24,Capital Area Food Bank,4900 Puerto Rico Ave NE,Stabilizing
+1840005578,25,Food Bank of Delaware,222 Lake Drive,Stable
+1840001288,27,Central Pennsylvania Food Bank,3908 Corey Road,Stable
+1840003441,28,Community Food Warehouse of Mercer County,109 S Sharpsville Avenue,Stable
+1840001185,29,Helping Harvest,117 Morgan Drive,Stable
+1840001224,30,Greater Pittsburgh Community Food Bank,1 North Linden Street,Stabilizing
+1840000766,31,H and J Weinberg NE PA Regional Food Bank,185 Research Drive,Stable
+1840000673,32,Philabundance,3616 S. Galloway Street,Stabilizing
+1840000974,33,Second Harvest Food Bank of Lehigh Valley and NE Pennsylvania,6969 Silver Crest Road,Stable
+1840000478,34,Second Harvest Food Bank of Northwest Pennsylvania,1507 Grimm Drive,Stabilizing
+1840003628,35,Westmoreland County Food Bank,100 Devonshire Drive,Stabilizing
+1840006248,36,"Blue Ridge Area Food Bank, Inc.",96 Laurel Hill Road,Stabilizing
+1840001719,37,Feeding Southwest Virginia,1025 Electric Road,Unstable
+1840001698,38,Feed More,1415 Rhoadmiller Street,Unstable
+1840003869,39,Foodbank of Southeastern Virginia,800 Tidewater Drive,Stabilizing
+1840003866,41,Virginia Peninsula Foodbank,2401 Aluminum Avenue,Stable
+1840006114,42,Mountaineer Food Bank,484 Enterprise Drive,Stable
+1840006507,43,Community Food Bank of Central Alabama,107 Walter Davis Drive,Unstable
+1840013895,44,Feeding the Gulf Coast,5248 Mobile South Street,Unstable
+1840005061,45,Food Bank of North Alabama,2000 B. Vernon Ave.,Stable
+1840008353,46,"Montgomery Area Food Bank, Inc.",521 Trade Center Street,Stabilizing
+1840015988,47,All Faiths Food Bank,8171 Blaikie Ct.,Stable
+1840015913,48,"Second Harvest of the Big Bend, Inc.",4446 Entrepot Blvd,Stable
+1840015031,49,Feeding Northeast Florida,"1116 Edgewood Avenue North, Units D and E",Stable
+1840017273,50,Feeding South Florida,2501 SW 32 Terrace,Stable
+1840015982,51,Feeding Tampa Bay,"4702 Transport Dr., Bldg. 6",Stable
+1840015099,53,Second Harvest Food Bank of Central Florida,411 Mercy Drive,Stable
+1840015830,55,"America's Second Harvest of Coastal Georgia, Inc.",2501 East President Street,Stable
+1840013660,56,Atlanta Community Food Bank,3400 N Desert Dr,Stable
+1840029463,58,Food Bank of Northeast Georgia,861 Newton Bridge Road,Stable
+1840029462,59,Golden Harvest Food Bank,3310 Commerce Drive,Stabilizing
+1840043455,60,Middle Georgia Community Food Bank,4490 Ocmulgee East Boulevard,Stable
+1840015894,61,"Second Harvest of South Georgia, Inc",1411 Harbin Circle,Stable
+1840030815,62,Dare to Care Food Bank,5803 Fern Valley Road,Stable
+1840013218,63,"Feeding America, Kentucky's Heartland","313 Peterson Dr.,",Stabilizing
+1840015211,64,"God's Pantry Food Bank, Inc.",1685 Jaggie Fox Way,Stabilizing
+1840014895,65,Mississippi Food Network,440 W. Beatty Street,Unstable
+1840014497,66,Food Bank of Central and Eastern North Carolina,1924 Capital Boulevard,Stable
+1840013315,67,Food Bank of the Albemarle,109 Tidewater Way,Stable
+1840014497,68,Inter-Faith Food Shuttle,1001 Blair Drive,Unstable
+1840013411,69,MANNA FoodBank,627 Swannanoa River Rd,Stable
+1840014557,70,Second Harvest Food Bank of Metrolina,500 B Spratt St.,Stable
+1840015324,71,Second Harvest Food Bank of Northwest North Carolina,3655 Reed Street,Stable
+1840013490,72,Second Harvest Food Bank of Southeast North Carolina,"406 Deep Creek Road, PO Box 2009",Stable
+1840014730,73,Harvest Hope Food Bank,2220 Shop Road,Stabilizing
+1840015163,74,Lowcountry Food Bank,2864 Azalea Drive,Stable
+1840014569,75,Chattanooga Area Food Bank,2009 Curtain Pole Road,Stable
+1840015457,76,Mid-South Food Bank,3865 S Perkins Rd,Unstable
+1840015380,77,Second Harvest Food Bank of East Tennessee,136 Harvest Lane,Stable
+1840036155,78,Second Harvest Food Bank of Middle Tennessee,331 Great Circle Road,Unstable
+1840014425,79,Second Harvest Food Bank of Northeast Tennessee,1020 Jericho Drive,Stabilizing
+1840009517,80,Central Illinois Foodbank,1937 E. Cook,Stabilizing
+1840010451,81,Eastern Illinois Foodbank,2405 North Shore Drive,Unstable
+1840000494,82,Feeding America,35 E. Wacker Dr.,Stabilizing
+1840000494,83,Greater Chicago Food Depository,4100 West Ann Lurie Place,Stabilizing
+1840008135,84,Northern Illinois Food Bank,273 Dearborn Court,Stable
+1840008261,85,"Community Harvest Food Bank of Northeast Indiana, Inc.",999 East Tillman Road,Stable
+1840009241,86,Food Bank of Northern Indiana,702 South Chapin Street,Stabilizing
+1840009261,87,"Food Bank of Northwest Indiana, Inc.",6490 Broadway,Stable
+1840008354,88,Food Finders Food Bank Inc.,1204 Greenbush Street,Stable
+1840030084,89,"Gleaners Food Bank of Indiana, Inc.",3737 Waldemere Ave.,Stable
+1840007376,90,Hoosier Hills Food Bank,2333 West Industrial Park Drive,Stabilizing
+1840008365,91,"Second Harvest Food Bank of East Central Indiana, Inc.",6621 N. Old SR 3,Stable
+1840009671,92,Terre Haute Catholic Charities Foodbank,430 N 14th 1/2 St,Stable
+1840013730,93,"Tri-State Food Bank, Inc.",801 E. Michigan Street,Stable
+1840004307,94,Feeding America West Michigan Food Bank,864 West River Center Drive,Stabilizing
+1840002949,95,Food Bank of Eastern Michigan,2300 Lapeer Road,Unstable
+1840003176,96,South Michigan Food Bank,5451 Wayne Road,Stable
+1840003172,97,Food Gatherers,1 Carrot Way,Stable
+1840002424,98,Forgotten Harvest,21800 Greenfield Road,Unstable
+1840003971,99,Gleaners Community Food Bank of Southeastern Michigan,2131 Beaufait Street,Stable
+1840003102,100,Greater Lansing Food Bank,919 Filley St.,Stabilizing
+1840008987,101,Channel One Food Bank,"131 35th Street, SE",Stable
+1840007700,102,"North Country Food Bank, Inc.",1011 11th Ave. NE,Stable
+1840007081,103,River Bend Foodbank,4010 Kimmel Drive,Unstable
+1840001686,104,Kansas Food Bank,1919 E. Douglas,Stable
+1840008940,105,Second Harvest Heartland,1140 Gervais Avenue,Stable
+1840008535,106,Harvesters - The Community Food Network,3801 Topping Avenue,Stable
+1840009904,107,Ozarks Food Harvest,2810 N. Cedarbrook Ave,Stable
+1840009549,108,Second Harvest Community Food Bank,915 Douglas,Stable
+1840009921,109,Southeast Missouri Food Bank,600 State Highway H,Stabilizing
+1840006129,110,St. Louis Area Foodbank,70 Corporate Woods Drive,Stable
+1840007714,111,Second Harvest North Central Food Bank,2222 Cromell Drive,Stabilizing
+1840007391,112,The Food Bank for Central and Northeast Missouri,"2101 Vandiver Drive, Suite B",Stable
+1840009315,113,Food Bank for the Heartland,10525  J Street,Stabilizing
+1840009357,114,"Food Bank of Lincoln, Inc.","4840 Doris Bair Circle, Suite A",Stable
+1840018825,115,Care and Share Food Bank,2605 Preamble Point,Stabilizing
+1840020179,116,Community Food Share,650 S. Taylor Ave.,Stable
+1840020152,117,Food Bank for Larimer County,5706 Wright Drive,Stabilizing
+1840018789,118,Food Bank of the Rockies,10700 E. 45th Ave,Stabilizing
+1840020149,119,Weld Food Bank,1108 H Street,Stabilizing
+1840019840,120,Montana Food Bank Network,5625 Expressway,Stable
+1840000177,121,Great Plains Food Bank,1720 3rd Avenue North,Stable
+1840002648,122,Feeding South Dakota,4701 N Westport Ave,Stabilizing
+1840021383,123,Utah Food Bank,3150 South 900 West,Stabilizing
+1840022101,124,Community Food Bank of Southern Arizona,3003 South Country Club Road,Stable
+1840020568,125,St. Mary's Food Bank Alliance,2831 N. 31st Avenue,Stabilizing
+1840020566,126,United Food Bank,245 South Nina Drive,Stable
+1840021998,127,Yuma Community Food Bank,2404 E 24th St. Ste. A,Stable
+1840020296,128,Alameda County Community Food Bank,7900 Edgewater Drive,Stable
+1840020319,129,Central California Food Bank,4010 E. Hardy Ave,Stabilizing
+1840020551,130,Feeding America Riverside San Bernardino Counties,2950 - A Jefferson Street,Stable
+1840021990,131,Feeding San Diego,"9455 Waples Street, Suite 135",Stable
+1840019304,132,FIND Food Bank,83-775 Citrus Ave,Stable
+1840021632,133,Food Bank for Monterey County,"815 W. Market Street, Suite 5",Unstable
+1840018905,134,Food Bank of Contra Costa and Solano,4010 Nelson Ave,Unstable
+1840020474,135,Food Share of Ventura County,4156 Southbank Road,Stable
+1840021829,136,Foodbank of Santa Barbara County,4554 Hollister Avenue,Stable
+1840020491,137,Los Angeles Regional Food Bank,1734 E. 41st Street,Stable
+1840020233,138,Placer Food Bank,8284 Industrial Ave,Stable
+1840021488,139,Redwood Empire Food Bank,3990 Brickway Blvd,Stabilizing
+1840007685,140,Second Harvest Northern Lakes Food Bank,4503 Airpark Boulevard,Stable
+1840019325,141,Second Harvest Food Bank of Orange County,8014 Marine Way,Stabilizing
+1840020265,142,Second Harvest Food Bank of San Joaquin and Stanislaus Counties,1220 Vanderbilt Cir,Stable
+1840021570,143,Second Harvest of Silicon Valley,750 Curtner Avenue,Stable
+1840021581,144,Second Harvest Food Bank Santa Cruz County,800 Ohlone Parkway,Stable
+1840021543,145,SF-Marin Food Banks,900 Pennsylvania Avenue,Stabilizing
+1840013305,146,"Hawaii Foodbank, Inc.",2611 Kilihau St,Stable
+1840020364,148,Three Square Food Bank,4190 N. Pecos Rd.,Stabilizing
+1840023385,149,"Food Bank of Alaska, Inc.",2121 Spar Avenue,Stabilizing
+1840027142,150,The Idaho Foodbank,3562 South TK Avenue,Stabilizing
+1840019941,151,Oregon Food Bank,7900 NE 33rd Drive,Stabilizing
+1840021117,152,Food Lifeline,815 South 96th Street,Stable
+1840021093,153,Second Harvest Inland Northwest,1234 E. Front Avenue,Stabilizing
+1840000791,154,Akron-Canton Regional Foodbank,350 Opportunity Parkway,Stable
+1840003814,155,Freestore Foodbank,1141 Central Parkway,Stabilizing
+1840000596,156,"Greater Cleveland Food Bank, Inc.",15500 South Waterloo Road,Stable
+1840007264,157,Mid-Ohio Foodbank,3960 Brookham Dr.,Stable
+1840009566,158,SE Ohio Foodbank,1005 CIC Drive,Stable
+1840000644,159,Second Harvest Food Bank of North Central Ohio,5510 Baumhart Rd,Stable
+1840003563,160,Second Harvest Food Bank of the Mahoning Valley,2805 Salt Springs Road,Stable
+1840003765,161,"Second Harvest Foodbank of Clark, Champaign, and Logan Counties",701 East Columbia Street,Stable
+1840003802,162,Shared Harvest Foodbank,5901 Dixie Highway,Stable
+1840034249,163,"The Foodbank, Inc.",56 Armor Place,Stabilizing
+1840000572,164,Toledo Northwestern Ohio Food Bank,24 East Woodruff Avenue,Stable
+1840002785,165,West Ohio Food Bank,1380 East Kibby Street,Stabilizing
+1840003046,166,Feeding America Eastern Wisconsin,1700 W. Fond Du Lac Avenue,Stable
+1840002915,167,Second Harvest Foodbank of Southern Wisconsin,2802 Dairy Drive,Stable
+1840006211,168,Facing Hunger Foodbank,1327 Seventh Avenue,Stabilizing
+1840015509,169,Arkansas Foodbank,4301 W 65th St,Stable
+1840014507,170,Food Bank of Northeast Arkansas,3414 One Place,Stable
+1840015708,171,"Harvest Regional Food Bank, Inc.",3120 East 19th Street,Stable
+1840013873,174,Food Bank of Central Louisiana,3223 Baldwin Avenue,Stabilizing
+1840014881,175,Food Bank of Northeast Louisiana,4600 Central Ave,Stable
+1840015768,176,Food Bank of Northwest Louisiana,2307 Texas Avenue,Stable
+1840013941,177,Greater Baton Rouge Food Bank,10600 S. Choctaw Drive,Unstable
+1840019176,179,Roadrunner Food Bank,5840 Office Blvd NE,Stable
+1840021672,180,Community Food Bank of Eastern Oklahoma,1304 N. Kenosha Ave.,Stabilizing
+1840020428,181,Regional Food Bank of Oklahoma,3355 S. Purdue,Stable
+1840019590,182,Central Texas Food Bank,6500 Metropolis Drive,Stable
+1840022076,183,East Texas Food Bank,3201 Robertson Road,Stabilizing
+1840023252,184,El Pasoans Fighting Hunger,9541 Plaza Circle,Stabilizing
+1840019718,185,Coastal Bend Food Bank,826 Krill St.,Stable
+1840023044,186,Food Bank of the Golden Crescent,3809 E. Rio Grande,Stable
+1840021030,187,"Food Bank of the Rio Grande Valley, Inc.",724 N. Cage Blvd.,Stable
+1840019476,188,Food Bank of West Central Texas,5505 N. First,Stabilizing
+1840019156,189,High Plains Food Bank,815 S. Ross,Unstable
+1840020925,190,Houston Food Bank,535 Portwall Street,Stable
+1840020662,191,North Texas Food Bank,3677 Mapleshade Lane,Stable
+1840022220,192,San Antonio Food Bank,5200 Enrique M Barrera Pkwy,Stable
+1840020604,193,South Plains Food Bank,5605 MLK Boulevard,Stable
+1840021002,194,South Texas Food Bank,2121 Jefferson St.,Stable
+1840019612,195,Southeast Texas Food Bank,3845 Martin Luther King Parkway,Stable
+1840020794,197,West Texas Food Bank,411 S. Pagewood Ave.,Stable
+1840021923,198,Wichita Falls Area Food Bank,1230 Midwestern Parkway,Stable
+1840007069,199,Food Bank of Iowa,2220 E. 17th Street,Stable
+1840006989,200,HACAP Food Reservoir,1515 Hawkeye Drive,Stable
+1840000440,201,Northeast Iowa Food Bank,1605 Lafayette Steet,Stable

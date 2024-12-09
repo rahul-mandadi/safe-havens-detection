@@ -1,0 +1,202 @@
+,X,Y,FID,Food_Bank_Name,Address,City,Status,latitude,longitude,County,fips_code
+0,-8100264.9389,5083471.1369,1,Connecticut Food Bank,2 Research Parkway,Wallingford,Unstable,41.48046899977454,-72.76591800031352,New Haven County,09009
+1,-8095873.7712,5140930.3645,2,Foodshare,450 Woodland Avenue,Bloomfield,Stable,41.86601594819823,-72.72647146971309,Hartford County,09003
+2,-8083436.943,5220823.3987,3,The Food Bank of Western Massachusetts,97 North Hatfield Road,Hatfield,Stabilizing,42.39825060317073,-72.61474954113281,Hampshire County,25015
+3,-7910997.9818,5211109.2354,4,The Greater Boston Food Bank,70 South Bay Ave,Boston,Stabilizing,42.33377528997248,-71.06570399689627,Suffolk County,25025
+4,-7983968.5526,5202477.7638,5,"Worcester County Food Bank, Inc.",474 Boston Turnpike,Shrewsbury,Stable,42.27643055511521,-71.72120978730193,Worcester County,25027
+5,-7824338.7514,5470121.6912,6,Good Shepherd Food Bank,3121 Hotel Road,Auburn,Stable,44.03023099042103,-70.28723088511272,Androscoggin County,23001
+6,-7949176.3548,5308845.8518,7,New Hampshire Food Bank,700 East Industrial Park Drive,Manchester,Stable,42.9794592107247,-71.40866615678344,Hillsborough County,33011
+7,-7952431.2079,5130593.683,8,Rhode Island Community Food Bank,200 Niantic Ave.,Providence,Stable,41.79682800009679,-71.43790499965637,Providence County,44007
+8,-8068784.4846,5492359.2425,9,Vermont Foodbank,33 Parker Road,Barre,Stable,44.173681431057524,-72.48312426782635,Washington County,50023
+9,-8261485.1415,4967635.3752,10,Community FoodBank of New Jersey,31 Evans Terminal,Hillside,Stable,40.69620950968997,-74.21418372135777,Union County,34039
+10,-8353388.5751,4863284.7832,11,Food Bank of South Jersey,1501 John Tipton Boulevard,Pennsauken,Stabilizing,39.98171000548376,-75.0397663120172,Camden County,34007
+11,-8244462.8639,4899298.4058,12,"FULFILL - (The FoodBank of Monmouth and Ocean Counties, Inc.)",3300 Route 66,Neptune,Stable,40.22915400033551,-74.06126999997171,Monmouth County,34025
+12,-8235949.7459,4975070.3768,13,City Harvest,"6 East 32nd Street, 5th Fl.",New York,Stable,40.746828751364525,-73.9847953598226,New York County,36061
+13,-8223391.1671,4984107.5151,14,Food Bank For New York City,355 Food Center Dr.,New York,Stabilizing,40.80830387754951,-73.871979726994,Bronx County,36005
+14,-8216936.7113,5023027.5126,15,Feeding Westchester,200 Clearbrook Road,Elmsford,Stabilizing,41.0724067247381,-73.81399836403585,Westchester County,36119
+15,-8491030.0313,5328930.2227,16,Food Bank of Central New York,7066 Interstate Island Road,Syracuse,Stable,43.111313166202756,-76.2762205503465,Onondaga County,36067
+16,-8552132.406,5181656.3048,17,Food Bank of the Southern Tier,388 Upper Oakwood Avenue,Elmira,Stabilizing,42.13788450924675,-76.82511252123656,Chemung County,36015
+17,-8775405.9573,5293938.4139,18,FeedMore WNY,91 Holt Street,Buffalo,Unstable,42.8814086151961,-78.8308129579609,Erie County,36029
+18,-8645204.0139,5341171.7801,19,"Foodlink, Inc.",1999 Mt. Read Boulevard,Rochester,Stable,43.191540000031615,-77.66118900017806,Monroe County,36055
+19,-8180582.2854,4974794.7638,20,Island Harvest,15 Grumman Road West Suite 1450,Bethpage,Stabilizing,40.74495300023895,-73.48742099972225,Nassau County,36059
+20,-8154960.3235,4985743.7086,21,"Long Island Cares, Inc.",10 Davids Drive,Hauppauge,Stabilizing,40.81942799970709,-73.25725499988327,Suffolk County,36103
+21,-8216848.6727,5276149.58,22,Regional Food Bank of Northeastern New York,965 Albany Shaker Rd.,Latham,Stable,42.76420199999918,-73.81320749983612,Albany County,36001
+22,-7346891.5832,2085594.6102,23,Banco de Alimentos de Puerto Rico,Urbanization Country Club Park C / 272 IC4,Carolina,Stabilizing,18.409999999617693,-65.99824999957629,Carolina Municipio,72031
+23,-8571540.6229,4714127.1331,24,Capital Area Food Bank,4900 Puerto Rico Ave NE,Washington,Stabilizing,38.94731100010637,-76.99945950002433,District of Columbia,11001
+24,-8432838.6293,4809926.6934,25,Food Bank of Delaware,222 Lake Drive,Newark,Stable,39.613441902501414,-75.75347829213705,New Castle County,10003
+25,-8536572.6662,4753841.9683,26,Maryland Food Bank,2200 Halethorpe Farms Road,Baltimore,Unstable,39.22423199992079,-76.68533700044394,Baltimore County,24005
+26,-8551810.9432,4905711.3579,27,Central Pennsylvania Food Bank,3908 Corey Road,Harrisburg,Stable,40.273121958188135,-76.8222247717714,Dauphin County,42043
+27,-8961752.3922,5046528.805,28,Community Food Warehouse of Mercer County,109 S Sharpsville Avenue,Sharon,Stable,41.23136991066784,-80.50479146407945,Mercer County,42085
+28,-8459521.1675,4911379.2143,29,Helping Harvest,117 Morgan Drive,Reading,Stable,40.31195766991903,-75.99317161097869,Berks County,42011
+29,-8888104.0275,4920644.3777,30,Greater Pittsburgh Community Food Bank,1 North Linden Street,Duquesne,Stabilizing,40.3753937818732,-79.84319694747525,Allegheny County,42003
+30,-8431926.0575,5055130.8385,31,H and J Weinberg NE PA Regional Food Bank,185 Research Drive,Pittston,Stable,41.28945784732259,-75.74528052017908,Luzerne County,42079
+31,-8366383.6453,4851742.5547,32,Philabundance,3616 S. Galloway Street,Philadelphia,Stabilizing,39.90221477101171,-75.15650301380587,Philadelphia County,42101
+32,-8391955.2268,4969859.5983,33,Second Harvest Food Bank of Lehigh Valley and NE Pennsylvania,6969 Silver Crest Road,Nazareth,Stable,40.711356579711854,-75.38621643881146,Northampton County,42095
+33,-8918132.3056,5177473.5828,34,Second Harvest Food Bank of Northwest Pennsylvania,1507 Grimm Drive,Erie,Stabilizing,42.110016019102424,-80.11294555920547,Erie County,42049
+34,-8859039.6538,4923702.6538,35,Westmoreland County Food Bank,100 Devonshire Drive,Delmont,Stabilizing,40.39631988892141,-79.58210723629453,Westmoreland County,42129
+35,-8794810.0624,4607673.8466,36,"Blue Ridge Area Food Bank, Inc.",96 Laurel Hill Road,Verona,Stabilizing,38.19968999995377,-79.00512299982081,Augusta County,51015
+36,-8909634.0021,4477993.0408,37,Feeding Southwest Virginia,1025 Electric Road,Salem,Unstable,37.278468000079016,-80.0366039999741,Salem city,51775
+37,-8622342.7063,4518421.9229,38,Feed More,1415 Rhoadmiller Street,Richmond,Unstable,37.56689456455711,-77.45582237985768,Richmond city,51760
+38,-8490873.6218,4418538.0075,39,Foodbank of Southeastern Virginia,800 Tidewater Drive,Norfolk,Stabilizing,36.852291000347265,-76.27481549990216,Norfolk city,51710
+39,-8622239.4952,4617709.6555,40,Fredericksburg Regional Foodbank,3631 Lee Hill Drive,Fredericksburg,Stable,38.270503343617044,-77.45489521877147,Spotsylvania County,51177
+40,-8505244.5228,4439884.4564,41,Virginia Peninsula Foodbank,2401 Aluminum Avenue,Hampton,Stable,37.00557899974609,-76.40391150005085,Hampton city,51650
+41,-8988151.6033,4672964.1762,42,Mountaineer Food Bank,484 Enterprise Drive,Gassaway,Stable,38.65914651283575,-80.74193961227772,Braxton County,54007
+42,-9666844.1744,3958441.8529,43,Community Food Bank of Central Alabama,107 Walter Davis Drive,Birmingham,Unstable,33.47438950480426,-86.83873871065276,Jefferson County,01073
+43,-9814234.0588,3578393.7094,44,Feeding the Gulf Coast,5248 Mobile South Street,Theodore,Unstable,30.58054349432055,-88.16276456946407,Mobile County,01097
+44,-9639905.5571,4126438.8584,45,Food Bank of North Alabama,2000 B. Vernon Ave.,Huntsville,Stable,34.72401508116512,-86.59674499411639,Madison County,01089
+45,-9611961.0246,3812122.3261,46,"Montgomery Area Food Bank, Inc.",521 Trade Center Street,Montgomery,Stabilizing,32.371099033548674,-86.34571498759314,Montgomery County,01101
+46,-9172945.3562,3166881.2953,47,All Faiths Food Bank,8171 Blaikie Ct.,Sarasota,Stable,27.346913725012524,-82.40197013867648,Sarasota County,12115
+47,-9386976.6062,3555188.1916,48,"Second Harvest of the Big Bend, Inc.",4446 Entrepot Blvd,Tallahassee,Stable,30.40091239373043,-84.32464557021854,Leon County,12073
+48,-9098445.4395,3547391.5263,49,Feeding Northeast Florida,"1116 Edgewood Avenue North, Units D and E",Jacksonville,Stable,30.340485000251878,-81.73272600030407,Duval County,12031
+49,-8924926.7513,2997644.5061,50,Feeding South Florida,2501 SW 32 Terrace,Pembroke Park,Stable,25.988401626059954,-80.17398110339975,Broward County,12011
+50,-9173382.4534,3243639.9872,51,Feeding Tampa Bay,"4702 Transport Dr., Bldg. 6",Tampa,Stable,27.95768582691891,-82.40589664963053,Hillsborough County,12057
+51,-9112929.5524,3074483.3295,52,Harry Chapin Food Bank of Southwest Florida,3760 Fowler St.,Ft. Myers,Stable,26.60721299966583,-81.8628390002539,Lee County,12071
+52,-9064778.3091,3318260.6427,53,Second Harvest Food Bank of Central Florida,411 Mercy Drive,Orlando,Stable,28.548151930991498,-81.43028902219642,Orange County,12095
+53,-8945639.2158,3179946.0737,54,Treasure Coast Food Bank,401 Angle Rd.,Ft. Pierce,Stabilizing,27.45111122315591,-80.3600443377211,St. Lucie County,12111
+54,-9021756.3847,3771954.9429,55,"America's Second Harvest of Coastal Georgia, Inc.",2501 East President Street,Savannah,Stable,32.06582999966079,-81.04381649978887,Chatham County,13051
+55,-9405796.498,3983896.5325,56,Atlanta Community Food Bank,3400 N Desert Dr,Atlanta,Stable,33.66491483822992,-84.49370753471268,Fulton County,13121
+56,-9447896.4364,3835117.1259,57,Feeding the Valley Food Bank,6744 Flat Rock Road,Midland,Stable,32.54539557459093,-84.8718977159648,Muscogee County,13215
+57,-9284151.0376,4029172.2183,58,Food Bank of Northeast Georgia,861 Newton Bridge Road,Athens,Stable,34.00275691374138,-83.40094777150193,Clarke County,13059
+58,-9134876.7151,3955236.1466,59,Golden Harvest Food Bank,3310 Commerce Drive,Augusta,Stabilizing,33.45036537191054,-82.05999371721856,Richmond County,13245
+59,-9302820.3797,3869524.8954,60,Middle Georgia Community Food Bank,4490 Ocmulgee East Boulevard,Macon,Stable,32.805569377234214,-83.5686573250308,Bibb County,13021
+60,-9271468.5414,3607535.4506,61,"Second Harvest of South Georgia, Inc",1411 Harbin Circle,Valdosta,Stable,30.80565552453627,-83.28701896972946,Lowndes County,13185
+61,-9534911.7045,4601478.4371,62,Dare to Care Food Bank,5803 Fern Valley Road,Louisville,Stable,38.1559403558698,-85.65356916882469,Jefferson County,21111
+62,-9563006.2545,4534950.453,63,"Feeding America, Kentucky's Heartland","313 Peterson Dr.,",Elizabethtown,Stabilizing,37.68449171177216,-85.90594680547927,Hardin County,21093
+63,-9408446.7426,4591455.5782,64,"God's Pantry Food Bank, Inc.",1685 Jaggie Fox Way,Lexington,Stabilizing,38.08510710205238,-84.51751508702104,Fayette County,21067
+64,-10040320.986,3800811.8311,65,Mississippi Food Network,440 W. Beatty Street,Jackson,Unstable,32.28524384981393,-90.19373799189783,Hinds County,28049
+65,-8751408.8193,4273739.5609,66,Food Bank of Central and Eastern North Carolina,1924 Capital Boulevard,Raleigh,Stable,35.804394000126,-78.61524299955565,Wake County,37183
+66,-8483499.8187,4337633.0448,67,Food Bank of the Albemarle,109 Tidewater Way,Elizabeth City,Stable,36.26852400017082,-76.208575499634,Pasquotank County,37139
+67,-8756849.0029,4268945.0669,68,Inter-Faith Food Shuttle,1001 Blair Drive,Raleigh,Unstable,35.7694559998602,-78.66411300031862,Wake County,37183
+68,-9183686.7246,4242624.6507,69,MANNA FoodBank,627 Swannanoa River Rd,Asheville,Stable,35.577382904904916,-82.49846149273726,Buncombe County,37021
+69,-8998961.2143,4196346.0312,70,Second Harvest Food Bank of Metrolina,500 B Spratt St.,Charlotte,Stable,35.23854600011419,-80.83904400004458,Mecklenburg County,37119
+70,-8928965.0537,4307879.1636,71,Second Harvest Food Bank of Northwest North Carolina,3655 Reed Street,Winston-Salem,Stable,36.05272852614784,-80.21025779107794,Forsyth County,37067
+71,-8778025.4049,4169424.1813,72,Second Harvest Food Bank of Southeast North Carolina,"406 Deep Creek Road, PO Box 2009",Fayetteville,Stable,35.04077864860259,-78.8543438561112,Cumberland County,37051
+72,-9015736.6163,4023838.938,73,Harvest Hope Food Bank,2220 Shop Road,Columbia,Stabilizing,33.9630299999945,-80.98974000018308,Richland County,45079
+73,-8902469.0901,3874663.1339,74,Lowcountry Food Bank,2864 Azalea Drive,Charleston,Stable,32.84435699997452,-79.97224050038439,Charleston County,45019
+74,-9492751.7118,4172333.2155,75,Chattanooga Area Food Bank,2009 Curtain Pole Road,Chattanooga,Stable,35.062171499590356,-85.2748395106169,Hamilton County,47065
+75,-10008689.0723,4169627.731,76,Mid-South Food Bank,3865 S Perkins Rd,Memphis,Unstable,35.04227572236887,-89.90958367647123,Shelby County,47157
+76,-9350357.4285,4268945.3292,77,Second Harvest Food Bank of East Tennessee,136 Harvest Lane,Maryville,Stable,35.76945791168893,-83.99568990002057,Blount County,47009
+77,-9661914.5388,4327933.3724,78,Second Harvest Food Bank of Middle Tennessee,331 Great Circle Road,Nashville,Unstable,36.198240615314354,-86.79445504060656,Davidson County,47037
+78,-9175988.1425,4371179.5095,79,Second Harvest Food Bank of Northeast Tennessee,1020 Jericho Drive,Kingsport,Stabilizing,36.5111125732885,-82.42930395307248,Sullivan County,47163
+79,-9977328.6698,4836144.4247,80,Central Illinois Foodbank,1937 E. Cook,Springfield,Stabilizing,39.794638471908186,-89.62786838765234,Sangamon County,17167
+80,-9820849.8716,4886080.6238,81,Eastern Illinois Foodbank,2405 North Shore Drive,Urbana,Unstable,40.138441233424636,-88.2221954270152,Champaign County,17019
+81,-9754568.6408,5143996.1176,82,Feeding America,35 E. Wacker Dr.,Chicago,Stabilizing,41.8865219996713,-87.62678100023625,Cook County,17031
+82,-9765650.4128,5133516.3856,83,Greater Chicago Food Depository,4100 West Ann Lurie Place,Chicago,Stabilizing,41.81639851494476,-87.72633025186353,Cook County,17031
+83,-9826042.4474,5144198.4138,84,Northern Illinois Food Bank,273 Dearborn Court,Geneva,Stable,41.88787487667322,-88.26884112906609,Kane County,17089
+84,-9475797.3069,5015030.8091,85,"Community Harvest Food Bank of Northeast Indiana, Inc.",999 East Tillman Road,Fort Wayne,Stable,41.01822899989484,-85.1225355000687,Allen County,18003
+85,-9602554.9462,5111331.315,86,Food Bank of Northern Indiana,702 South Chapin Street,South Bend,Stabilizing,41.66769702926735,-86.2612187476897,St. Joseph County,18141
+86,-9722201.2173,5086614.289,87,"Food Bank of Northwest Indiana, Inc.",6490 Broadway,Merrillville,Stable,41.501618999829184,-87.33601948786006,Lake County,18089
+87,-9671898.216,4928935.3863,88,Food Finders Food Bank Inc.,1204 Greenbush Street,Lafayette,Stable,40.43210952960749,-86.88413993881132,Tippecanoe County,18157
+88,-9602524.0275,4823981.5054,89,"Gleaners Food Bank of Indiana, Inc.",3737 Waldemere Ave.,Indianapolis,Stable,39.71063699980712,-86.26094100028193,Marion County,18097
+89,-9636703.6266,4746726.7743,90,Hoosier Hills Food Bank,2333 West Industrial Park Drive,Bloomington,Stabilizing,39.17469959670064,-86.567981563048,Monroe County,18105
+90,-9503129.5785,4902241.0511,91,"Second Harvest Food Bank of East Central Indiana, Inc.",6621 N. Old SR 3,Muncie,Stable,40.249332670820976,-85.36806547334857,Delaware County,18035
+91,-9728678.3509,4789771.3849,92,Terre Haute Catholic Charities Foodbank,430 N 14th 1/2 St,Terre Haute,Stable,39.47382075452778,-87.39420456896171,Vigo County,18167
+92,-9746326.1136,4576725.8656,93,"Tri-State Food Bank, Inc.",801 E. Michigan Street,Evansville,Stable,37.98088506607758,-87.55273711860096,Vanderburgh County,18163
+93,-9534586.9485,5319427.9638,94,Feeding America West Michigan Food Bank,864 West River Center Drive,Comstock Park,Stabilizing,43.04896613137965,-85.65065183604058,Kent County,26081
+94,-9313702.1337,5313391.0391,95,Food Bank of Eastern Michigan,2300 Lapeer Road,Flint,Unstable,43.00932318926472,-83.66640978439308,Genesee County,26049
+95,-9494290.7696,5211419.1893,96,South Michigan Food Bank,5451 Wayne Road,Battle Creek,Stable,42.335833552926495,-85.28866510206574,Calhoun County,26025
+96,-9320541.2138,5208588.6169,97,Food Gatherers,1 Carrot Way,Ann Arbor,Stable,42.31703450701254,-83.72784628622456,Washtenaw County,26161
+97,-9261868.303,5229278.6786,98,Forgotten Harvest,21800 Greenfield Road,Oak Park,Unstable,42.45431652473582,-83.20077856087033,Oakland County,26125
+98,-9241039.0602,5214170.6673,99,Gleaners Community Food Bank of Southeastern Michigan,2131 Beaufait Street,Detroit,Stable,42.35410191438618,-83.01366628923158,Wayne County,26163
+99,-9413670.4166,5275912.1953,100,Greater Lansing Food Bank,919 Filley St.,Lansing,Stabilizing,42.76263642345203,-84.56444014895563,Ingham County,26065
+100,-10292552.7276,5461124.6818,101,Channel One Food Bank,"131 35th Street, SE",Rochester,Stable,43.972094007430705,-92.4595742780915,Olmsted County,27109
+101,-10797828.0806,6096112.0774,102,"North Country Food Bank, Inc.",1011 11th Ave. NE,East Grand Forks,Stable,47.93538591594142,-96.99854000097938,Polk County,27119
+102,-10089607.0779,5086218.115,103,River Bend Foodbank,4010 Kimmel Drive,Davenport,Unstable,41.498953559393826,-90.63648248838074,Scott County,19163
+103,-10832996.2382,4535177.9645,104,Kansas Food Bank,1919 E. Douglas,Wichita,Stable,37.68610911174516,-97.31446093584339,Sedgwick County,20173
+104,-10358505.2375,5623670.772,105,Second Harvest Heartland,1140 Gervais Avenue,St. Paul,Stable,45.013650740707426,-93.05203575478363,Ramsey County,27123
+105,-10521542.9024,4729574.7573,106,Harvesters - The Community Food Network,3801 Topping Avenue,Kansas City,Stable,39.05515236368339,-94.5166280174519,Jackson County,29095
+106,-10379065.7546,4473436.0816,107,Ozarks Food Harvest,2810 N. Cedarbrook Ave,Springfield,Stable,37.24588824101349,-93.23673402238693,Greene County,29077
+107,-10558488.0027,4834456.6185,108,Second Harvest Community Food Bank,915 Douglas,St. Joseph,Stable,39.78298799996358,-94.84851150018008,Buchanan County,29021
+108,-9967334.9877,4426121.6968,109,Southeast Missouri Food Bank,600 State Highway H,Sikeston,Stabilizing,36.90678446995911,-89.53809361390172,Scott County,29201
+109,-10070051.1946,4690878.3065,110,St. Louis Area Foodbank,70 Corporate Woods Drive,Bridgeton,Stable,38.7846990000158,-90.46080899975223,St. Louis County,29189
+110,-10407677.9611,5978911.2346,111,Second Harvest North Central Food Bank,2222 Cromell Drive,Grand Rapids,Stabilizing,47.22520616101008,-93.49376184650029,Itasca County,27061
+111,-10275525.8239,4717626.8867,112,The Food Bank for Central and Northeast Missouri,"2101 Vandiver Drive, Suite B",Columbia,Stable,38.97175752016829,-92.30661899974207,Boone County,29019
+112,-10695327.4578,5043989.2313,113,Food Bank for the Heartland,10525  J Street,Omaha,Stabilizing,41.21421076314201,-96.07776124004927,Douglas County,31055
+113,-10759207.1213,4991999.3829,114,"Food Bank of Lincoln, Inc.","4840 Doris Bair Circle, Suite A",Lincoln,Stable,40.86194176331028,-96.65160202071388,Lancaster County,31109
+114,-11668710.5132,4697847.0024,115,Care and Share Food Bank,2605 Preamble Point,Colorado Springs,Stabilizing,38.83348000027932,-104.82180999973704,El Paso County,08041
+115,-11701938.3854,4860128.1609,116,Community Food Share,650 S. Taylor Ave.,Louisville,Stable,39.95997845504902,-105.12030105429734,Boulder County,08013
+116,-11688341.4828,4931672.7008,117,Food Bank for Larimer County,5706 Wright Drive,Loveland,Stabilizing,40.45082399991418,-104.9981580000747,Larimer County,08069
+117,-11673357.5145,4833826.8281,118,Food Bank of the Rockies,10700 E. 45th Ave,Denver,Stabilizing,39.778640220888086,-104.86355472266818,Denver County,08031
+118,-11654949.0236,4930718.5934,119,Weld Food Bank,1108 H Street,Greeley,Stabilizing,40.44430155045317,-104.69818843533774,Weld County,08123
+119,-12698732.5759,5929315.968,120,Montana Food Bank Network,5625 Expressway,Missoula,Stable,46.92178035432339,-114.0746556187743,Missoula County,30063
+120,-10776809.6805,5922327.3799,121,Great Plains Food Bank,1720 3rd Avenue North,Fargo,Stable,46.87888500028451,-96.80972850040366,Cass County,38017
+121,-10771567.8683,5403425.5321,122,Feeding South Dakota,4701 N Westport Ave,Sioux Falls,Stabilizing,43.597899000320744,-96.76264050024622,Minnehaha County,46099
+122,-12458542.6017,4968896.5882,123,Utah Food Bank,3150 South 900 West,Salt Lake City,Stabilizing,40.704798855853426,-111.91699236961297,Salt Lake County,49035
+123,-12348276.4317,3788115.2097,124,Community Food Bank of Southern Arizona,3003 South Country Club Road,Tucson,Stable,32.18877000024704,-110.92645451128976,Pima County,04019
+124,-12481774.7737,3959074.1146,125,St. Mary's Food Bank Alliance,2831 N. 31st Avenue,Phoenix,Stabilizing,33.47912700025475,-112.12569052152192,Maricopa County,04013
+125,-12451172.0837,3949804.2207,126,United Food Bank,245 South Nina Drive,Mesa,Stable,33.40964235883319,-111.85078187990018,Maricopa County,04013
+126,-12756493.9644,3853568.8211,127,Yuma Community Food Bank,2404 E 24th St. Ste. A,Yuma,Stable,32.68501199962288,-114.59353499998947,Yuma County,04027
+127,-13603482.1726,4542910.7013,128,Alameda County Community Food Bank,7900 Edgewater Drive,Oakland,Stable,37.741060867215914,-122.20215952894013,Alameda County,06001
+128,-13331248.1091,4396504.4296,129,Central California Food Bank,4010 E. Hardy Ave,Fresno,Stabilizing,36.693745731104684,-119.75663932793996,Fresno County,06019
+129,-13069764.141,4018861.7752,130,Feeding America Riverside San Bernardino Counties,2950 - A Jefferson Street,Riverside,Stable,33.92593901460798,-117.40768887697548,Riverside County,06065
+130,-13044746.0454,3882186.6398,131,Feeding San Diego,"9455 Waples Street, Suite 135",San Diego,Stable,32.901119999653524,-117.18294750040502,San Diego County,06073
+131,-12935567.147,3991077.8403,132,FIND Food Bank,83-775 Citrus Ave,Indio,Stable,33.71859000031607,-116.20217676904451,Riverside County,06065
+132,-13544523.5822,4395046.5748,133,Food Bank for Monterey County,"815 W. Market Street, Suite 5",Salinas,Unstable,36.6832439996879,-121.67252550007551,Monterey County,06053
+133,-13586204.4275,4580349.7685,134,Food Bank of Contra Costa and Solano,4010 Nelson Ave,Concord,Unstable,38.00654022488461,-122.04695090395562,Contra Costa County,06013
+134,-13265053.6877,4063200.5693,135,Food Share of Ventura County,4156 Southbank Road,Oxnard,Stable,34.25579196164116,-119.1620047232693,Ventura County,06111
+135,-13333553.9041,4087883.2986,136,Foodbank of Santa Barbara County,4554 Hollister Avenue,Santa Barbara,Stable,34.43885826811779,-119.77735263684546,Santa Barbara County,06083
+136,-13162639.4421,4029878.2192,137,Los Angeles Regional Food Bank,1734 E. 41st Street,Los Angeles,Stable,34.00801443114274,-118.24200190192879,Los Angeles County,06037
+137,-13503580.4405,4690794.7642,138,Placer Food Bank,8284 Industrial Ave,Roseville,Stable,38.78411399976029,-121.30472700038568,Placer County,06061
+138,-13669291.1197,4652291.7228,139,Redwood Empire Food Bank,3990 Brickway Blvd,Santa Rosa,Stabilizing,38.51398811492742,-122.79333135905756,Sonoma County,06097
+139,-10260304.4311,5914893.9131,140,Second Harvest Northern Lakes Food Bank,4503 Airpark Boulevard,Duluth,Stable,46.8332213520853,-92.16988290176381,St. Louis County,27137
+140,-13106220.1191,3983896.4204,141,Second Harvest Food Bank of Orange County,8014 Marine Way,Irvine,Stabilizing,33.664914000100616,-117.73517850022306,Orange County,06059
+141,-13492868.7782,4549064.0585,142,Second Harvest Food Bank of San Joaquin and Stanislaus Counties,1220 Vanderbilt Cir,Manteca,Stable,37.78475982873589,-121.20850250076154,San Joaquin County,06077
+142,-13567306.7301,4479842.8361,143,Second Harvest of Silicon Valley,750 Curtner Avenue,San Jose,Stable,37.291688999996616,-121.87718999986477,Santa Clara County,06085
+143,-13555674.1951,4425583.3713,144,Second Harvest Food Bank Santa Cruz County,800 Ohlone Parkway,Watsonville,Stable,36.90291755255834,-121.77269316002922,Santa Cruz County,06087
+144,-13624710.8842,4544798.1004,145,SF-Marin Food Banks,900 Pennsylvania Avenue,San Francisco,Stabilizing,37.754467251519166,-122.39286028986459,San Francisco County,06075
+145,-17576737.1659,2431978.4247,146,"Hawaii Foodbank, Inc.",2611 Kilihau St,Honolulu,Stable,21.335916612520556,-157.8945164107961,Honolulu County,15003
+146,-13299882.4385,4798507.7058,147,Food Bank of Northern Nevada,550 Italy Dr,Sparks,Stable,39.53437404822311,-119.47487671497362,Storey County,32029
+147,-12812490.7852,4333153.0482,148,Three Square Food Bank,4190 N. Pecos Rd.,Las Vegas,Stabilizing,36.23606999993483,-115.09656299985689,Clark County,32003
+148,-16680248.3659,8677088.6254,149,"Food Bank of Alaska, Inc.",2121 Spar Avenue,Anchorage,Stabilizing,61.222483524805206,-149.8412204999764,Anchorage Municipality,02020
+149,-12934426.9592,5399266.9574,150,The Idaho Foodbank,3562 South TK Avenue,Boise,Stabilizing,43.57083900435891,-116.19193428776946,Ada County,16001
+150,-13651480.0147,5713366.3959,151,Oregon Food Bank,7900 NE 33rd Drive,Portland,Stabilizing,45.5804332075247,-122.63333148057198,Multnomah County,41051
+151,-13616874.0154,6026783.7306,152,Food Lifeline,815 South 96th Street,Seattle,Stable,47.516453999879936,-122.3224604996378,King County,53033
+152,-13067934.4519,6050525.9466,153,Second Harvest Inland Northwest,1234 E. Front Avenue,Spokane,Stabilizing,47.66030100011005,-117.3912525001383,Spokane County,53063
+153,-9076547.2712,5023146.2582,154,Akron-Canton Regional Foodbank,350 Opportunity Parkway,Akron,Stable,41.07321089094499,-81.53601140752293,Summit County,39153
+154,-9408723.2505,4737026.512,155,Freestore Foodbank,1141 Central Parkway,Cincinnati,Stabilizing,39.10711499971197,-84.51999899974854,Hamilton County,39061
+155,-9080607.5486,5096302.9925,156,"Greater Cleveland Food Bank, Inc.",15500 South Waterloo Road,Cleveland,Stable,41.56676999997803,-81.5724854999848,Cuyahoga County,39035
+156,-9245204.964,4849003.0175,157,Mid-Ohio Foodbank,3960 Brookham Dr.,Grove City,Stable,39.88333309051982,-83.0510892397887,Franklin County,39049
+157,-9171862.9062,4798847.2321,158,SE Ohio Foodbank,1005 CIC Drive,Logan,Stable,39.536726311856135,-82.39224632488352,Hocking County,39073
+158,-9159498.9018,5074972.5243,159,Second Harvest Food Bank of North Central Ohio,5510 Baumhart Rd,Lorain,Stable,41.423247994069044,-82.28117858362911,Lorain County,39093
+159,-8984167.0209,5031338.729,160,Second Harvest Food Bank of the Mahoning Valley,2805 Salt Springs Road,Youngstown,Stable,41.128668000310164,-80.70614549957017,Mahoning County,39099
+160,-9328418.9737,4855067.099,161,"Second Harvest Foodbank of Clark, Champaign, and Logan Counties",701 East Columbia Street,Springfield,Stable,39.9251215026015,-83.79861340745249,Clark County,39023
+161,-9408286.4328,4768747.7056,162,Shared Harvest Foodbank,5901 Dixie Highway,Fairfield,Stable,39.32788500005603,-84.51607499958571,Butler County,39017
+162,-9374293.6115,4829507.5607,163,"The Foodbank, Inc.",56 Armor Place,Dayton,Stabilizing,39.748814612354145,-84.21071229034438,Montgomery County,39113
+163,-9300105.0636,5110260.8643,164,Toledo Northwestern Ohio Food Bank,24 East Woodruff Avenue,Toledo,Stable,41.66051333378859,-83.54426522549234,Lucas County,39095
+164,-9359828.3041,4972676.5902,165,West Ohio Food Bank,1380 East Kibby Street,Lima,Stabilizing,40.730535490360744,-84.0807682230753,Allen County,39003
+165,-9788653.4443,5320716.149,166,Feeding America Eastern Wisconsin,1700 W. Fond Du Lac Avenue,Milwaukee,Stable,43.05742199973236,-87.93296999963886,Milwaukee County,55079
+166,-9940281.3316,5320850.7517,167,Second Harvest Foodbank of Southern Wisconsin,2802 Dairy Drive,Madison,Stable,43.05830548763907,-89.29506648624228,Dane County,55025
+167,-9176621.8769,4638645.3192,168,Facing Hunger Foodbank,1327 Seventh Avenue,Huntington,Stabilizing,38.41800471074002,-82.4349968860484,Cabell County,54011
+168,-10277329.4644,4121816.6866,169,Arkansas Foodbank,4301 W 65th St,Little Rock,Stable,34.68988115057707,-92.32282137802416,Pulaski County,05119
+169,-10091008.7795,4273672.2652,170,Food Bank of Northeast Arkansas,3414 One Place,Jonesboro,Stable,35.803903715303164,-90.64907418809128,Craighead County,05031
+170,-10465033.942,3953928.3376,171,"Harvest Regional Food Bank, Inc.",3120 East 19th Street,Texarkana,Stable,33.44056250684951,-94.00899938928166,Miller County,05091
+171,-10476801.2106,4331327.1788,172,Northwest Arkansas Food Bank,1378 June Self Drive,Bethel Heights,Stable,36.222839167115296,-94.11470656163885,Benton County,05007
+172,-10510528.2253,4208552.7969,173,River Valley Regional Food Bank,1617 South Zero Street,Ft. Smith,Unstable,35.32805820972545,-94.41768148956618,Sebastian County,05131
+173,-10291764.6022,3667892.0066,174,Food Bank of Central Louisiana,3223 Baldwin Avenue,Alexandria,Stabilizing,31.27021772868763,-92.45249442716526,Rapides Parish,22079
+174,-10248183.6652,3830786.5753,175,Food Bank of Northeast Louisiana,4600 Central Ave,Monroe,Stable,32.51259654535788,-92.06100020913178,Ouachita Parish,22073
+175,-10438109.9012,3827670.7199,176,Food Bank of Northwest Louisiana,2307 Texas Avenue,Shreveport,Stable,32.48899005418227,-93.76713661567267,Caddo Parish,22017
+176,-10137479.8524,3564386.2555,177,Greater Baton Rouge Food Bank,10600 S. Choctaw Drive,Baton Rouge,Unstable,30.472153157610634,-91.0665309386463,East Baton Rouge Parish,22033
+177,-10040213.341,3497360.5685,178,Second Harvest Food Bank of Greater New Orleans and Acadiana,700 Edwards Avenue,New Orleans,Stabilizing,29.951838000120826,-90.19277100041025,Jefferson Parish,22051
+178,-11872117.9396,4175333.5641,179,Roadrunner Food Bank,5840 Office Blvd NE,Albuquerque,Stable,35.08422999974493,-106.64905000012241,Bernalillo County,35001
+179,-10684697.2108,4324532.0958,180,Community Food Bank of Eastern Oklahoma,1304 N. Kenosha Ave.,Tulsa,Stabilizing,36.17358016216389,-95.98226810650858,Tulsa County,40143
+180,-10866304.0642,4222540.165,181,Regional Food Bank of Oklahoma,3355 S. Purdue,Oklahoma City,Stable,35.4305058451813,-97.61367022760933,Oklahoma County,40109
+181,-10876949.1836,3529663.3529,182,Central Texas Food Bank,6500 Metropolis Drive,Austin,Stable,30.202945442980255,-97.7092969621923,Travis County,48453
+182,-10612587.9094,3807102.1694,183,East Texas Food Bank,3201 Robertson Road,Tyler,Stabilizing,32.33300230877988,-95.33449923076058,Smith County,48423
+183,-11835937.2683,3720027.0995,184,El Pasoans Fighting Hunger,9541 Plaza Circle,El Paso,Stabilizing,31.66966799994303,-106.32403349993747,El Paso County,48141
+184,-10848706.1444,3223936.6539,185,Coastal Bend Food Bank,826 Krill St.,Corpus Christi,Stable,27.801231422476025,-97.45558542435884,Nueces County,48355
+185,-10793607.1342,3351312.742,186,Food Bank of the Golden Crescent,3809 E. Rio Grande,Victoria,Stable,28.808640590304027,-96.96062259433366,Victoria County,48469
+186,-10929662.0937,3024070.998,187,"Food Bank of the Rio Grande Valley, Inc.",724 N. Cage Blvd.,Pharr,Stable,26.201596213284176,-98.18282509032477,Hidalgo County,48215
+187,-11109071.7236,3823187.0355,188,Food Bank of West Central Texas,5505 N. First,Abilene,Stabilizing,32.45500968115998,-99.79448921689875,Taylor County,48441
+188,-11334060.9076,4191429.0862,189,High Plains Food Bank,815 S. Ross,Amarillo,Unstable,35.20246209587416,-101.81560144438656,Potter County,48375
+189,-10606049.9095,3475387.272,190,Houston Food Bank,535 Portwall Street,Houston,Stable,29.780663877643796,-95.27576737838315,Harris County,48201
+190,-10771451.3866,3895745.5866,191,North Texas Food Bank,3677 Mapleshade Lane,Plano,Stable,33.00332708494003,-96.76159412733192,Collin County,48085
+191,-10975246.2887,3429004.1644,192,San Antonio Food Bank,5200 Enrique M Barrera Pkwy,San Antonio,Stable,29.418373694185327,-98.59231488115263,Bexar County,48029
+192,-11334248.1532,3967570.6709,193,South Plains Food Bank,5605 MLK Boulevard,Lubbock,Stable,33.54276600020857,-101.81728350023019,Lubbock County,48303
+193,-11078139.7422,3188995.1433,194,South Texas Food Bank,2121 Jefferson St.,Laredo,Stable,27.52322399976516,-99.51662250030155,Webb County,48479
+194,-10472637.7991,3509948.5327,195,Southeast Texas Food Bank,3845 Martin Luther King Parkway,Beaumont,Stable,30.04976700009699,-94.07730599979357,Jefferson County,48245
+195,-10837290.3134,3863695.7151,196,Tarrant Area Food Bank,2600 Cullen,Ft. Worth,Stable,32.76154545994196,-97.3530352696766,Tarrant County,48439
+196,-11390623.7887,3745080.345,197,West Texas Food Bank,411 S. Pagewood Ave.,Odessa,Stable,31.861013960974486,-102.3237144504462,Ector County,48135
+197,-10963608.6802,4012320.4257,198,Wichita Falls Area Food Bank,1230 Midwestern Parkway,Wichita Falls,Stable,33.877166771666985,-98.48777246529113,Wichita County,48485
+198,-10418646.7329,5103389.3271,199,Food Bank of Iowa,2220 E. 17th Street,Des Moines,Stable,41.614379999877436,-93.59229600005986,Polk County,19153
+199,-10205482.3774,5169216.2182,200,HACAP Food Reservoir,1515 Hawkeye Drive,Hiawatha,Stable,42.05496316213287,-91.6774080143085,Linn County,19113
+200,-10277247.322,5235096.399,201,Northeast Iowa Food Bank,1605 Lafayette Steet,Waterloo,Stable,42.49286399170844,-92.3220834802902,Black Hawk County,19013
