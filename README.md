@@ -4,15 +4,6 @@ A project focused on detecting and visualizing safe havens based on various soci
 
 ---
 
-## How to Create the Database
-
-1. Ensure you have the required SQL scripts to create the tables and populate the database.
-2. Use the provided Python script to:
-   - Create the database schema.
-   - Insert initial data into the tables.
-
----
-
 ## How to Run the Project
 
 Follow these steps to set up and run the project:
@@ -21,3 +12,8 @@ Follow these steps to set up and run the project:
    Install all the necessary Python packages by running:
    ```bash
    pip install -r requirements.txt
+
+2. **Go to UI Folder**
+   Run the following command:
+   ```bash
+   streamlit run view_table.py
