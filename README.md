@@ -23,3 +23,17 @@ Follow these steps to set up and run the project:
    Run the following command:
    ```bash
    streamlit run view_table.py
+
+
+## Project structure
+**AnalyticsReport** - This has all images regarding the visualizations
+**Cleaned Data** - Data after the preprocessing
+**Data** - Raw data before preprocessing
+**Extract Data** - This has the files to extract the fipscode of the counties from geocoders api.
+**Machine Learning** - This contains the machine learning models.
+**Queries** - This has connection.py file which is used to establish the connection with DB. insert_data to insert the data from excel files (used in case the data in DB is deleted or changed). query.py has all query functions which are used creating the visualizations.
+**UI**- Has the UI files (developed using strealit).
+
+
+
+ 
