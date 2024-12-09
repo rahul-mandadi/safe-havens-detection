@@ -1,12 +1,15 @@
 # Safe Havens Detection
 
- The Safe Haven Risk Detection system is a data analytics
- platform designed to assess community safety across U.S.
- counties and cities. Evaluate safety levels using socioeco
-nomic indicators such as crime rates, poverty, and unemploy
-ment. This system aids policymakers and organizations in
- making data-driven decisions to allocate resources effectively
- and enhance community well-being.
+A project focused on detecting and visualizing safe havens based on various socio-economic and crime rate data.
+
+---
+
+## How to Create the Database
+
+1. Ensure you have the required SQL scripts to create the tables and populate the database.
+2. Use the provided Python script to:
+   - Create the database schema.
+   - Insert initial data into the tables.
 
 ---
 
@@ -18,10 +21,3 @@ Follow these steps to set up and run the project:
    Install all the necessary Python packages by running:
    ```bash
    pip install -r requirements.txt
-
-2. **Go to UI Folder**
-   Run the following command:
-   ```bash
-   streamlit run view_table.py
-
-
