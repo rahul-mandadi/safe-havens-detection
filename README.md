@@ -26,7 +26,7 @@ Follow these steps to set up and run the project:
 
 
 ## Project structure
-**AnalyticsReport** - This has all images regarding the visualizations
+**AnalyticsReport** - This has all images regarding the visualizations<br>
 **Cleaned Data** - Data after the preprocessing
 **Data** - Raw data before preprocessing
 **Extract Data** - This has the files to extract the fipscode of the counties from geocoders api.
