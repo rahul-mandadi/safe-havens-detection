@@ -20,7 +20,8 @@ Follow these steps to set up and run the project:
    pip install -r requirements.txt
 
 2. **Go to UI Folder**
-   Run the following command
+   Run the following command:
    ```bash
    streamlit run view_table.py
-   
+
+
