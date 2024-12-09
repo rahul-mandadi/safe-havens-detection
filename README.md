@@ -1,6 +1,12 @@
 # Safe Havens Detection
 
-A project focused on detecting and visualizing safe havens based on various socio-economic and crime rate data.
+ The Safe Haven Risk Detection system is a data analytics
+ platform designed to assess community safety across U.S.
+ counties and cities. Evaluate safety levels using socioeco
+nomic indicators such as crime rates, poverty, and unemploy
+ment. This system aids policymakers and organizations in
+ making data-driven decisions to allocate resources effectively
+ and enhance community well-being.
 
 ---
 
