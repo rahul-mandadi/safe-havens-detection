@@ -7,10 +7,32 @@ nomic indicators such as crime rates, poverty, and unemploy
 ment. This system aids policymakers and organizations in
  making data-driven decisions to allocate resources effectively
  and enhance community well-being.
- 
+
+
+The platform combines data engineering, visualization, and machine learning to analyze safety levels, identify high-risk regions, and predict future risks.
+
+---
 By Ashwin Khairnar and Rahul Reddy Mandadi
 ---
+## Features
 
+1. **Database**  
+   - 11-table **MySQL relational schema** normalized to 3NF.  
+   - Integrated **50,000+ records** from USDA, USDC, and U.S. Census Bureau.  
+
+2. **Interactive Visualizations**  
+   - **Dynamic heatmaps** for safety levels.  
+   - **Bar charts** for poverty, unemployment, and crime trends.  
+   - **Donut charts** visualizing crime type distributions.  
+
+3. **Predictive Modeling**  
+   - **Random Forest Regressor** achieves **R² = 0.646** for crime prediction.  
+   - Identified key predictors such as **poverty rates** and **unemployment** using **SHAP analysis**.  
+
+4. **Administrative Tools**  
+   - Add, update, and query records for **demographics**, **crime data**, and **emergency resources**.  
+
+ 
 ## How to Run the Project
 
 Follow these steps to set up and run the project:
