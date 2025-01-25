@@ -7,7 +7,8 @@ nomic indicators such as crime rates, poverty, and unemploy
 ment. This system aids policymakers and organizations in
  making data-driven decisions to allocate resources effectively
  and enhance community well-being.
-
+ 
+By Ashwin Khairnar and Rahul Reddy Mandadi
 ---
 
 ## How to Run the Project
